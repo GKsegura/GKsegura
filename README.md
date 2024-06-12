@@ -1,6 +1,6 @@
 # Seja bem-vindo!
 
-Sou José Segura, desenvolvedor web apaixonado por criar soluções inovadoras. Tenho experiência em várias linguagens e frameworks. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Sou desenvolvedor web!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jose-a-segura-m-da-silva/">
@@ -10,38 +10,22 @@ Sou José Segura, desenvolvedor web apaixonado por criar soluções inovadoras. 
 
 ---
 
-## Habilidades
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## Projetos em Destaque
-
-- [Projeto 1](https://github.com/usuario/projeto1): Uma breve descrição do projeto.
-- [Projeto 2](https://github.com/usuario/projeto2): Uma breve descrição do projeto.
-
----
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&show_icons=true&theme=bear&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
 ---
 
-## Contato
-
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) ou enviar um email para jose.segura@example.com.
-
----
-
-<img src="https://komarev.com/ghpvc/?username=GKsegura&style=flat-square&color=blue" alt=""/>
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
