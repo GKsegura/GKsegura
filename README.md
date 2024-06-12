@@ -1,7 +1,8 @@
 # Seja bem-vindo!
 
-Sou José Segura, desenvolvedor web. Tenho experiência em várias linguagens. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-
+<div text-align='justify'>
+    Sou José Segura, desenvolvedor web. Tenho experiência em várias linguagens. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jose-a-segura-m-da-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,11 +32,9 @@ Sou José Segura, desenvolvedor web. Tenho experiência em várias linguagens. E
 
 ---
 
-<div align="center">
+<div align="center">    
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&show_icons=true&theme=bear&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=GKsegura&style=flat-square&color=blue" />
