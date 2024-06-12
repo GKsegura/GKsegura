@@ -38,4 +38,4 @@ Sou José Segura, desenvolvedor web. Tenho experiência em várias linguagens. E
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=GKsegura&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=GKsegura&style=flat-square&color=blue" />
