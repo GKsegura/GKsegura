@@ -30,7 +30,7 @@
 
 ## Projetos em Destaque
 
-- [Projeto 1](https://github.com/usuario/projeto1): Uma breve descrição do projeto.
+- [QInvest](https://github.com/GKsegura/qinvest-web): Plataforma de educação financeira utilizando Laravel.
 - [Projeto 2](https://github.com/usuario/projeto2): Uma breve descrição do projeto.
 
 ---
