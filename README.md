@@ -32,7 +32,7 @@
 ## Projetos em Destaque
 
 - [QInvest](https://github.com/GKsegura/qinvest-web): Plataforma de educação financeira utilizando Laravel.
-- [EcoTube](https://github.com/usuario/projeto2): E-commerce de canudos de vidro utilizando PHP.
+- [EcoTube](https://github.com/GKsegura/e-commerce): E-commerce de canudos de vidro utilizando PHP.
 
 ---
 
