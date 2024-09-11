@@ -1,7 +1,7 @@
 # Seja Bem-Vindo!
 
 <div align='center'>
-    <h2>Olá! Eu sou o José Segura</h2>
+    <h2>Olá! Eu sou o José Segura!</h2>
     <p>Desenvolvedor web apaixonado por tecnologia e freelancer dedicado! Adoro explorar o mundo do software e hardware!</p>
     <p>Com experiência em C#, Java, PHP (Laravel), JavaScript, PostgreSQL, e MySQL, participei de projetos diversos como o desenvolvimento de um e-commerce e uma plataforma de investimentos com consumo de APIs financeiras e geração de gráficos interativos usando bibliotecas JavaScript. Também atuei em projetos de robótica, automação, e extensão acadêmica. Experiência em desenvolvimento de processos BPM com JavaScript e automação de robôs com Java.</p>
 </div>
