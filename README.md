@@ -1,42 +1,61 @@
-# Olá! Eu sou o José Segura! 👋
+# Hello! I'm José Segura! 👋
 
-Bem-vindo ao meu perfil! Sou um **desenvolvedor web e freelancer apaixonado por tecnologia**. Tenho experiência em diversas linguagens e frameworks, além de um forte interesse por automação e otimização de processos.
-
----
-
-## 🚀 Sobre Mim
-
-🔹 Desenvolvedor Full Stack com experiência em **C#, Java, PHP (Laravel), JavaScript, PostgreSQL e MySQL**.
-🔹 Experiência no desenvolvimento de **e-commerces, plataformas financeiras e automação de processos BPM**.
-🔹 Interesse em **robótica, automação e extensões acadêmicas**.
-🔹 Sempre buscando **novos desafios e aprendizados** para aprimorar minhas habilidades.
-
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [E-mail](mailto\:seuemail@exemplo.com)
+Welcome to my profile! I'm a **web developer and freelancer passionate about technology**. I have experience with various programming languages and frameworks, and a strong interest in automation and process optimization.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🚀 About Me
 
-### **Linguagens e Frameworks**
+🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>
+🔹 Experience in developing **e-commerce platforms, financial platforms, and BPM process automation**.<br>
+🔹 Passionate about **robotics, automation, and academic extensions**.<br>
+🔹 Currently studying **React** to enhance my front-end skills.<br>
+🔹 Always looking for **new challenges and learning opportunities** to improve my skills.
 
-- **Front-End:** HTML, CSS, JavaScript
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:seuemail@exemplo.com)
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages & Frameworks**
+- **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** PHP (Laravel), Java, C#
-- **Banco de Dados:** PostgreSQL, MySQL
-- **Automação e Robótica:** BPM com JavaScript, Arduino
+- **Databases:** PostgreSQL, MySQL
+- **Automation & Robotics:** BPM with JavaScript, Arduino
 
-### **Tecnologias & Ferramentas**
+### **Technologies & Tools**
+<div align='left'>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-🔹 **[QInvest](https://github.com/GKsegura/qinvest-web)** - Plataforma de educação financeira com dados de APIs financeiras e gráficos interativos.
-🔹 **[EcoTube](https://github.com/GKsegura/e-commerce)** - Loja virtual focada em produtos sustentáveis, desenvolvida com PHP puro.
-
----
-
-## 📊 Estatísticas
+🔹 [**QInvest**](https://github.com/GKsegura/qinvest-web) - Financial education platform with real financial data APIs and interactive charts.<br>
+🔹 [**EcoTube**](https://github.com/GKsegura/e-commerce) - E-commerce platform focused on sustainable products, developed using pure PHP.
 
 ---
 
-**🔎 Buscando oportunidades para colaborar e aprender!** Se tiver interesse em trabalhar comigo, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) ou [E-mail](mailto\:seuemail@exemplo.com).
+## 📊 Stats
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&theme=midnight-purple&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&theme=midnight-purple&count_private=true"/>
+</div>
+
+---
+
+**🔎 Looking for opportunities to collaborate and learn!** If you're interested in working with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) or [Email](mailto:seuemail@exemplo.com).
+
