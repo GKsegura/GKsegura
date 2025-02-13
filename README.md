@@ -6,7 +6,7 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
 
 ## 🚀 About Me
 
-🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, TypeScript, PostgreSQL, and MySQL**.<br>
+🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>
 🔹 Experience in developing **e-commerce platforms, financial platforms, and BPM process automation**.<br>
 🔹 Passionate about **robotics, automation, and academic extensions**.<br>
 🔹 Currently studying **React and TypeScript** to enhance my front-end skills.<br>
