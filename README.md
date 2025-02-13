@@ -6,20 +6,20 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
 
 ## 🚀 About Me
 
-🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>
+🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, TypeScript, PostgreSQL, and MySQL**.<br>
 🔹 Experience in developing **e-commerce platforms, financial platforms, and BPM process automation**.<br>
 🔹 Passionate about **robotics, automation, and academic extensions**.<br>
-🔹 Currently studying **React** to enhance my front-end skills.<br>
+🔹 Currently studying **React and TypeScript** to enhance my front-end skills.<br>
 🔹 Always looking for **new challenges and learning opportunities** to improve my skills.
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:seuemail@exemplo.com)
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
-- **Front-End:** HTML, CSS, JavaScript, React
+- **Front-End:** HTML, CSS, JavaScript, React, TypeScript
 - **Back-End:** PHP (Laravel), Java, C#
 - **Databases:** PostgreSQL, MySQL
 - **Automation & Robotics:** BPM with JavaScript, Arduino
@@ -30,6 +30,7 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -57,5 +58,4 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
 
 ---
 
-**🔎 Looking for opportunities to collaborate and learn!** If you're interested in working with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) or [Email](mailto:seuemail@exemplo.com).
-
+**🔎 Looking for opportunities to collaborate and learn!** If you're interested in working with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) or [Email](mailto:josehsegura2004@gmail.com).
