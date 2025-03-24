@@ -44,7 +44,7 @@ Welcome to my profile! I'm a **full-stack web developer and freelancer passionat
 ## 📌 Featured Projects  
 
 ### 🔹 [**QInvest**](https://github.com/GKsegura/qinvest-web)  
-📈 **A financial education platform** that integrates **real financial data APIs and interactive charts**. Built with **React, TypeScript, and PostgreSQL**.  
+📈 **A financial education platform** that integrates **real financial data APIs and interactive charts**. Built with **PHP Laravel, JavaScript and PostgreSQL**.  
 
 ### 🔹 [**EcoTube**](https://github.com/GKsegura/e-commerce)  
 🛒 **An e-commerce platform focused on sustainability**. Developed with **pure PHP, MySQL, and Bootstrap** to enhance performance and flexibility.  
