@@ -1,33 +1,32 @@
-# Hello! I'm José Segura! 👋
+# Hello! I'm José Segura! 👋  
 
-Welcome to my profile! I'm a **web developer and freelancer passionate about technology**. I have experience with various programming languages and frameworks, and a strong interest in automation and process optimization.
-
----
-
-## 🚀 About Me
-
-🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>
-🔹 Experience in developing **e-commerce platforms, financial platforms, and BPM process automation**.<br>
-🔹 Passionate about **robotics, automation, and academic extensions**.<br>
-🔹 Currently studying **React and TypeScript** to enhance my front-end skills.<br>
-🔹 Always looking for **new challenges and learning opportunities** to improve my skills.
-
-📧 Contact: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)
+Welcome to my profile! I'm a **full-stack web developer and freelancer passionate about technology**. I specialize in **automation and process optimization**, always looking for new challenges and learning opportunities.  
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me  
+🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>  
+🔹 Developed **e-commerce platforms, financial systems, and BPM process automation**.<br>  
+🔹 Passionate about **robotics, automation, and academic projects**.<br>  
+🔹 Currently deepening my knowledge in **React and TypeScript**.<br>  
+🔹 Always eager to **learn, innovate, and collaborate**.  
 
-### **Languages & Frameworks**
-- **Front-End:** HTML, CSS, JavaScript, React, TypeScript
-- **Back-End:** PHP (Laravel), Java, C#
-- **Databases:** PostgreSQL, MySQL
-- **Automation & Robotics:** BPM with JavaScript, Arduino
+📧 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)  
 
-### **Technologies & Tools**
-<div align='left'>
+---
+
+## 🛠️ Technical Skills  
+
+### **Languages & Frameworks**  
+- **Front-End:** HTML, CSS, JavaScript, React, TypeScript  
+- **Back-End:** PHP (Laravel), Java, C#  
+- **Databases:** PostgreSQL, MySQL  
+- **Automation & Robotics:** BPM with JavaScript, Arduino  
+
+### **Technologies & Tools**  
+<div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -42,14 +41,17 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
-🔹 [**QInvest**](https://github.com/GKsegura/qinvest-web) - Financial education platform with real financial data APIs and interactive charts.<br>
-🔹 [**EcoTube**](https://github.com/GKsegura/e-commerce) - E-commerce platform focused on sustainable products, developed using pure PHP.
+### 🔹 [**QInvest**](https://github.com/GKsegura/qinvest-web)  
+📈 **A financial education platform** that integrates **real financial data APIs and interactive charts**. Built with **React, TypeScript, and PostgreSQL**.  
+
+### 🔹 [**EcoTube**](https://github.com/GKsegura/e-commerce)  
+🛒 **An e-commerce platform focused on sustainability**. Developed with **pure PHP, MySQL, and Bootstrap** to enhance performance and flexibility.  
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats  
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&theme=midnight-purple&count_private=true"/>
@@ -58,4 +60,7 @@ Welcome to my profile! I'm a **web developer and freelancer passionate about tec
 
 ---
 
-**🔎 Looking for opportunities to collaborate and learn!** If you're interested in working with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) or [Email](mailto:josehsegura2004@gmail.com).
+**💡 Open to collaboration and new opportunities!**  
+Let's connect: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)  
+
+---
