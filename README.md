@@ -15,15 +15,7 @@ Welcome to my profile! I'm a **full-stack web developer and freelancer passionat
 
 ---
 
-## 🛠️ Technical Skills  
-
-### **Languages & Frameworks**  
-- **Front-End:** HTML, CSS, JavaScript, React, TypeScript  
-- **Back-End:** PHP (Laravel), Java, C#  
-- **Databases:** PostgreSQL, MySQL  
-- **Automation & Robotics:** BPM with JavaScript, Arduino  
-
-### **Technologies**  
+## **Technologies**  
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
