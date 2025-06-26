@@ -43,7 +43,7 @@ Welcome to my profile! I'm a **full-stack web developer and freelancer passionat
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&langs_count=7&exclude_repo=EcoTube,qinvest-web" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&langs_count=7&exclude_repo=EcoTube,qinvest-web,horta-inteligente,projeto-semestral-csharp" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&hide_title=false&layout=compact&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="GitHub Stats" />
