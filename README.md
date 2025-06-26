@@ -64,8 +64,6 @@ Currently focused on **back-end development with Java + Spring Boot**, but with 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&exclude_repo=EcoTube,qinvest-web,horta-inteligente,projeto-semestral-csharp" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&hide_title=false&layout=compact&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="GitHub Stats" />
 </div>
 
 ---
