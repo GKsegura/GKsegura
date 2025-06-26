@@ -1,57 +1,78 @@
-# Hello! I'm José Segura! 👋  
+# 👋 Hey! I'm José Segura
 
-Welcome to my profile! I'm a **full-stack web developer and freelancer passionate about technology**. I specialize in **automation and process optimization**, always looking for new challenges and learning opportunities.  
-
----
-
-## 🚀 About Me  
-🔹 Full Stack Developer with experience in **C#, Java, PHP (Laravel), JavaScript, PostgreSQL, and MySQL**.<br>  
-🔹 Developed **e-commerce platforms, financial systems, and BPM process automation**.<br>  
-🔹 Passionate about **robotics, automation, and academic projects**.<br>  
-🔹 Currently deepening my knowledge in **React and TypeScript**.<br>  
-🔹 Always eager to **learn, innovate, and collaborate**.  
-
-📧 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)  
+Welcome to my GitHub profile!  
+I'm a **Full-Stack Web Developer & Freelancer**, driven by the mission of solving problems through technology.  
+Currently focused on **back-end development with Java + Spring Boot**, but with a front-end spirit and a love for automation. ❤️
 
 ---
 
-## **Technologies**  
+## 🚀 About Me
+
+🎯 Practical experience with:
+
+- **JavaScript**, **React**, **Java**, **PHP (Laravel)**, **C#**
+- **PostgreSQL** and **MySQL**
+- **API integrations**, **real-time data rendering**, and **interactive dashboards**
+
+🛠️ Projects I've worked on include:
+
+- E-commerce platforms
+- Financial and investment systems
+- Automation tools focused on performance and usability
+
+📚 Currently diving deeper into:
+
+- **Java + Spring Boot + MySQL**
+- Building **robust**, **scalable**, and **performant** back-end applications
+
+🤝 I thrive in collaborative environments, embrace complex challenges, and bring creativity into every line of code. I'm passionate about **clean code**, best practices, and turning ideas into living, breathing solutions.
+
+💬 Got a project or idea in mind? Let’s build something amazing together!
+
+📄 [Download my resume](https://github.com/GKsegura/GKsegura/raw/main/curriculo.pdf)
+
+📬 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)
+
+---
+
+## 🧠 Tech Stack
+
 <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </div>
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
 ### 🔹 [**QInvest**](https://github.com/GKsegura/qinvest-web)  
-📈 **A financial education platform** that integrates **real financial data APIs and interactive charts**. Built with **PHP Laravel, JavaScript and PostgreSQL**.  
+📈 A financial education platform with interactive charts and real-time financial API integration.  
+🔧 **Laravel, JavaScript, and PostgreSQL**
 
 ### 🔹 [**EcoTube**](https://github.com/GKsegura/e-commerce)  
-🛒 **An e-commerce platform focused on sustainability**. Developed with **pure PHP, MySQL, and Bootstrap** to enhance performance and flexibility.  
+🛒 A sustainable e-commerce platform designed for speed and product organization.  
+🔧 **Pure PHP, MySQL, and Bootstrap**
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&exclude_repo=EcoTube,qinvest-web,horta-inteligente,projeto-semestral-csharp," alt="Top Languages" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&exclude_repo=EcoTube,qinvest-web,horta-inteligente,projeto-semestral-csharp" alt="Top Languages" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&hide_title=false&layout=compact&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="GitHub Stats" />
-</p>
+</div>
 
 ---
 
-**💡 Open to collaboration and new opportunities!**  
-Let's connect: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)  
+## 💡 Open to Collaboration?
 
----
+Always happy to collaborate, take on freelance work, or simply chat about code and creativity.  
+Let’s talk: [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)
