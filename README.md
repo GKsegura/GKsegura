@@ -29,8 +29,6 @@ Currently focused on **back-end development with Java + Spring Boot**, but with 
 
 💬 Got a project or idea in mind? Let’s build something amazing together!
 
-📄 [Download my resume](https://github.com/GKsegura/GKsegura/raw/main/curriculo.pdf)
-
 📬 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/jose-a-segura-m-da-silva/) | [Email](mailto:josehsegura2004@gmail.com)
 
