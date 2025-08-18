@@ -48,7 +48,7 @@ Atualmente, foco no **desenvolvimento back-end com Java + Spring Boot**, sem per
 
 ### 🔹 [**Portfolio v1.0.0**](https://github.com/GKsegura/portfolio)
 
-Portfólio inicial com aplicações web, APIs RESTful e experimentações. Foco em boas práticas, clareza arquitetural e criatividade. (obs: você pode visualizar ele aqui: [**gksegura**](gksegura.netlify.app)).
+Portfólio inicial com aplicações web, APIs RESTful e experimentações. Foco em boas práticas, clareza arquitetural e criatividade. (obs: você pode visualizar ele aqui: [**gksegura**](https://gksegura.netlify.app)).
 **Stack:** React, JavaScript, CSS
 
 ### 🔹 [**Portfolio v2.0.0**](https://github.com/GKsegura/portfolio_v2)
