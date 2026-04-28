@@ -45,15 +45,26 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 
 ---
 
+## Aprendendo agora
+
+🌱 Em constante evolução — tecnologias que estou estudando ativamente:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-BA55D3?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
 ## Projetos em destaque
 
-| Projeto                                                                                             | Descrição                                                                         | Stack                           | Status                |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------- | --------------------- |
-| [**Cronos App**](https://github.com/GKsegura)                                                       | Front-end do Cronos, aplicação em desenvolvimento desde 2026.                     | React · JS · CSS                | 🚧 Em desenvolvimento |
-| [**Cronos API**](https://github.com/GKsegura)                                                       | API back-end do Cronos, em desenvolvimento desde 2025.                            | Java · Maven · SQLite           | 🚧 Em desenvolvimento |
-| [**Portfólio**](https://github.com/GKsegura/portfolio) · [🔗 ao vivo](https://gksegura.netlify.app) | Portfólio pessoal com foco em boas práticas e criatividade.                       | React · JS · CSS                | 🚧 Em desenvolvimento |
-| [**QInvest**](https://github.com/GKsegura/qinvest-web)                                              | Plataforma de educação financeira com gráficos interativos e dados em tempo real. | Laravel · JS · CSS · PostgreSQL | ✅ Concluído           |
-| [**EcoTube**](https://github.com/GKsegura/e-commerce)                                               | E-commerce sustentável com foco em performance e organização de produtos.         | PHP · JS · CSS · PostgreSQL     | ✅ Concluído           |
+| Projeto | Descrição | Stack | Status |
+| --- | --- | --- | --- |
+| [**Cronos App**](https://github.com/GKsegura) | Front-end do Cronos, aplicação em desenvolvimento desde 2026. | React · JS · CSS | 🚧 Em desenvolvimento |
+| [**Cronos API**](https://github.com/GKsegura) | API back-end do Cronos, em desenvolvimento desde 2025. | Java · Maven · SQLite | 🚧 Em desenvolvimento |
+| [**Portfólio**](https://github.com/GKsegura/portfolio) · [🔗 ao vivo](https://gksegura.netlify.app) | Portfólio pessoal com foco em boas práticas e criatividade. | React · JS · CSS | 🚧 Em desenvolvimento |
+| [**QInvest**](https://github.com/GKsegura/qinvest-web) | Plataforma de educação financeira com gráficos interativos e dados em tempo real. | Laravel · JS · CSS · PostgreSQL | ✅ Concluído |
+| [**EcoTube**](https://github.com/GKsegura/e-commerce) | E-commerce sustentável com foco em performance e organização de produtos. | PHP · JS · CSS · PostgreSQL | ✅ Concluído |
 
 ---
 
@@ -61,7 +72,11 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&exclude_repo=EcoTube,qinvest-web,horta-inteligente,projeto-semestral-csharp" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&hide=html,css" alt="Linguagens mais usadas" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="Stats" />
+
+<img src="https://streak-stats.demolab.com?user=GKsegura&theme=transparent&border=BA55D3&ring=BA55D3&fire=BA55D3&currStreakLabel=BA55D3" alt="Streak" />
 
 </div>
 
