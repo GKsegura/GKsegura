@@ -36,10 +36,12 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -63,6 +65,9 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 | [**Cronos App**](https://github.com/GKsegura) | Front-end do Cronos, aplicação em desenvolvimento desde 2026. | React · JS · CSS | 🚧 Em desenvolvimento |
 | [**Cronos API**](https://github.com/GKsegura) | API back-end do Cronos, em desenvolvimento desde 2025. | Java · Maven · SQLite | 🚧 Em desenvolvimento |
 | [**Portfólio**](https://github.com/GKsegura/portfolio) · [🔗 ao vivo](https://gksegura.netlify.app) | Portfólio pessoal com foco em boas práticas e criatividade. | React · JS · CSS | 🚧 Em desenvolvimento |
+| [**Workshop Spring Boot MongoDB**](https://github.com/GKsegura/workshop-springboot-mongodb) | Projeto do curso Nélio Alves explorando Spring Boot com MongoDB. | Java · Spring Boot · MongoDB | 🚧 Em desenvolvimento |
+| [**Chess System**](https://github.com/GKsegura/chess-system-java) | Sistema de jogo de xadrez com lógica complexa e aplicação prática de POO em Java. | Java | ✅ Concluído |
+| [**Workshop Spring Boot JPA**](https://github.com/GKsegura/springboot-jpa) | API REST de pedidos com Spring Boot, JPA/Hibernate e PostgreSQL. | Java · Spring Boot · Hibernate · PostgreSQL | ✅ Concluído |
 | [**QInvest**](https://github.com/GKsegura/qinvest-web) | Plataforma de educação financeira com gráficos interativos e dados em tempo real. | Laravel · JS · CSS · PostgreSQL | ✅ Concluído |
 | [**EcoTube**](https://github.com/GKsegura/e-commerce) | E-commerce sustentável com foco em performance e organização de produtos. | PHP · JS · CSS · PostgreSQL | ✅ Concluído |
 
