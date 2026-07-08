@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>José Segura · GKsegura</h1>
-  <p><strong>Desenvolvedor Web Full-Stack</strong><br/>
-  Back-end com Java &nbsp;·&nbsp; Front-end com React &nbsp;·&nbsp; Apaixonado por soluções que fazem sentido</p>
+  <h1>José Segura · <code>@GKsegura</code></h1>
+  <p><strong>Desenvolvedor Web Full-Stack</strong></p>
+  <p>Back-end com Java &nbsp;·&nbsp; Front-end com React &nbsp;·&nbsp; Transformando ideias em soluções que fazem sentido</p>
+
   <p>
     <a href="https://www.linkedin.com/in/jose-a-segura-m-da-silva/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,21 +17,24 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=GKsegura&label=Visitas&color=BA55D3&style=flat-square" alt="Visitas no perfil"/>
 </div>
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Desenvolvedor Full-Stack com experiência prática em **Java, JavaScript, MySQL e React**. Atualmente atuo como **Analista de Suporte na Nexum Tecnologia**, onde trabalho com BPM, automações via robôs e integrações em Java — usando a plataforma Lecom para entregar performance real aos clientes.
+Desenvolvedor Full-Stack com experiência prática em **Java, JavaScript, React e MySQL**. Atualmente sou **Analista de Suporte na Nexum Tecnologia**, onde atuo com BPM, automações via robôs e integrações em Java na plataforma Lecom — entregando performance real para os clientes.
 
-Já desenvolvi e-commerces, plataformas de investimentos e dashboards com integração de APIs e dados em tempo real. Estou aprofundando meus conhecimentos em Java e MySQL, com foco em back-end robusto, escalável e performático.
+Já construí **e-commerces, plataformas de investimento e dashboards** com integração de APIs e dados em tempo real. Hoje meu foco é aprofundar back-end com **Java + Spring**, escrevendo sistemas robustos, escaláveis e performáticos.
 
-Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultados concretos. Se você tem um projeto ou quer turbinar seu sistema, **me chama e vamos construir algo incrível juntos!**
+> Pra mim, tecnologia vai além do código — é a ponte entre ideias e resultados concretos.
+> **Tem um projeto ou quer turbinar seu sistema? Me chama e vamos construir algo incrível juntos! 🚀**
 
 ---
 
-## Stack principal
+## 🛠️ Stack & Ferramentas
 
 <div align="left">
 
@@ -45,41 +49,33 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 
 </div>
 
----
-
-## Aprendendo agora
-
-🌱 Em constante evolução — tecnologias que estou estudando ativamente:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-BA55D3?style=flat-square&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**🌱 Estudando ativamente:** aprofundamento em Java, ecossistema Spring, arquitetura de APIs REST e modelagem de dados com SQL.
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack | Status |
 | --- | --- | --- | --- |
-| [**Cronos App**](https://github.com/GKsegura) | Front-end do Cronos, aplicação em desenvolvimento desde 2026. | React · JS · CSS | 🚧 Em desenvolvimento |
-| [**Cronos API**](https://github.com/GKsegura) | API back-end do Cronos, em desenvolvimento desde 2025. | Java · Maven · SQLite | 🚧 Em desenvolvimento |
-| [**Portfólio**](https://github.com/GKsegura/portfolio) · [🔗 ao vivo](https://gksegura.netlify.app) | Portfólio pessoal com foco em boas práticas e criatividade. | React · JS · CSS | 🚧 Em desenvolvimento |
-| [**Workshop Spring Boot MongoDB**](https://github.com/GKsegura/workshop-springboot-mongodb) | Projeto do curso Nélio Alves explorando Spring Boot com MongoDB. | Java · Spring Boot · MongoDB | 🚧 Em desenvolvimento |
-| [**Chess System**](https://github.com/GKsegura/chess-system-java) | Sistema de jogo de xadrez com lógica complexa e aplicação prática de POO em Java. | Java | ✅ Concluído |
-| [**Workshop Spring Boot JPA**](https://github.com/GKsegura/springboot-jpa) | API REST de pedidos com Spring Boot, JPA/Hibernate e PostgreSQL. | Java · Spring Boot · Hibernate · PostgreSQL | ✅ Concluído |
-| [**QInvest**](https://github.com/GKsegura/qinvest-web) | Plataforma de educação financeira com gráficos interativos e dados em tempo real. | Laravel · JS · CSS · PostgreSQL | ✅ Concluído |
-| [**EcoTube**](https://github.com/GKsegura/e-commerce) | E-commerce sustentável com foco em performance e organização de produtos. | PHP · JS · CSS · PostgreSQL | ✅ Concluído |
+| 🔒 **Cronos App** | Front-end do Cronos — aplicação de uso real, em evolução desde 2026. *(repositório privado)* | `React` · `JS` · `CSS` | 🚧 Em andamento |
+| 🔒 **Cronos API** | Back-end do Cronos com API própria, em desenvolvimento desde 2025. *(repositório privado)* | `Java` · `Maven` · `SQLite` | 🚧 Em andamento |
+| [**Portfólio**](https://github.com/GKsegura/portfolio) · [🔗](https://gksegura.netlify.app) | Portfólio pessoal com foco em boas práticas e criatividade. | `React` · `JS` · `CSS` | 🚧 Em andamento |
+| [**Workshop Spring Boot + MongoDB**](https://github.com/GKsegura/workshop-springboot-mongodb) | Estudo de Spring Boot com MongoDB (curso Nélio Alves). | `Java` · `Spring Boot` · `MongoDB` | 🚧 Em andamento |
+| [**Chess System**](https://github.com/GKsegura/chess-system-java) | Jogo de xadrez com lógica complexa e POO aplicada em Java. | `Java` | ✅ Concluído |
+| [**Workshop Spring Boot + JPA**](https://github.com/GKsegura/springboot-jpa) | API REST de pedidos com Spring Boot, JPA/Hibernate e PostgreSQL. | `Java` · `Spring Boot` · `Hibernate` · `PostgreSQL` | ✅ Concluído |
+| [**QInvest**](https://github.com/GKsegura/qinvest-web) | Plataforma de educação financeira com gráficos interativos e dados em tempo real. | `Laravel` · `JS` · `PostgreSQL` | ✅ Concluído |
+| [**EcoTube**](https://github.com/GKsegura/e-commerce) | E-commerce sustentável com foco em performance e organização de produtos. | `PHP` · `JS` · `PostgreSQL` | ✅ Concluído |
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&hide=html,css" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKsegura&layout=compact&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3&hide=html,css" alt="Linguagens mais usadas" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=GKsegura&show_icons=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&border_color=BA55D3" alt="Stats" />
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=GKsegura&theme=transparent&border=BA55D3&ring=BA55D3&fire=BA55D3&currStreakLabel=BA55D3" alt="Streak" />
 
@@ -89,6 +85,6 @@ Tecnologia, pra mim, vai além de código — é a ponte entre ideias e resultad
 
 <div align="center">
 
-Feito com tecnologia e café — sempre evoluindo, sempre codando.
+<sub>Feito com tecnologia e café ☕ — sempre evoluindo, sempre codando.</sub>
 
 </div>
