@@ -25,9 +25,9 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack com experiência prática em **Java, Spring Boot, Vue 3, TypeScript e MySQL**. Atualmente sou **Desenvolvedor Fullstack (Júnior) na Nexum Tecnologia**, atuando no time de produto **NxCoop** — construindo produtos escaláveis com Java, Spring Boot e Vue 3 com TypeScript.
+Desenvolvedor Full Stack com experiência prática em **Java, Spring Boot, Vue 3, TypeScript, Node.js, MySQL e MongoDB**. Atualmente sou **Desenvolvedor Full Stack (Júnior) na Nexum Tecnologia**, contribuindo em dois produtos SaaS: o **NxCoop** (CRM de gestão de clientes e funil comercial) e o **NxZap** (atendimento multicanal via WhatsApp, chat e SMS).
 
-Já construí **e-commerces, plataformas de investimento e dashboards** com integração de APIs e dados em tempo real. Hoje meu foco é aprofundar back-end com **Java + Spring**, escrevendo sistemas robustos, escaláveis e performáticos.
+No dia a dia, transito entre back-end em **Java + Spring Boot** (JPA/Hibernate), front-end em **Vue 3 + TypeScript**, e também **Node.js + Express** no NxZap — com **Docker** e **Azure DevOps** organizando o fluxo de CI/CD.
 
 > Pra mim, tecnologia vai além do código — é a ponte entre ideias e resultados concretos.
 > **Tem um projeto ou quer turbinar seu sistema? Me chama e vamos construir algo incrível juntos! 🚀**
@@ -42,11 +42,14 @@ Já construí **e-commerces, plataformas de investimento e dashboards** com inte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue 3" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
 
 </div>
 
-**🌱 Estudando ativamente:** evoluindo em **Java e Spring Boot** e me aprofundando em **Vue 3** — as stacks que uso no dia a dia do time de produto NxCoop.
+**🌱 Estudando ativamente:** aprofundando **Node.js**, **Docker** e **Azure DevOps** — o que venho somando ao dia a dia entre os produtos NxCoop e NxZap.
 
 ---
 
@@ -55,11 +58,11 @@ Já construí **e-commerces, plataformas de investimento e dashboards** com inte
 | Projeto | Descrição | Stack | Status |
 | --- | --- | --- | --- |
 | 🔒 **CRONOS API** | API REST para gerenciamento de tarefas e controle de tempo, usada diariamente no meu dia a dia. *(repositório privado)* | `Java` · `Maven` · `SQLite` | 🟢 Em uso ativo |
-| 🔒 **CRONOS APP** | Front-end do CRONOS, consumindo a API para gestão de tarefas e controle de tempo. *(repositório privado)* | `React` · `TS` · `CSS` | 🟢 Em uso ativo |
+| 🔒 **CRONOS APP** | Front-end do CRONOS, consumindo a API para gestão de tarefas e controle de tempo. *(repositório privado)* | `Vue 3` · `TS` · `Tailwind` | 🟢 Em uso ativo |
 | [**QInvest**](https://github.com/GKsegura/qinvest-web) | Plataforma de educação financeira (TCC no CTI - Unesp Bauru), onde atuei como líder técnico e dev full stack. | `Laravel` · `JS` · `PostgreSQL` | ✅ Concluído |
 | [**EcoTube**](https://github.com/GKsegura/EcoTube) | E-commerce de canudos de vidro sustentáveis, com catálogo, carrinho e simulação de checkout. | `PHP` · `JS` · `PostgreSQL` | ✅ Concluído |
 | [**Horta Inteligente**](https://github.com/GKsegura/horta-inteligente) | Sistema de irrigação automatizado com Arduino, sensor de umidade do solo e acionamento de bomba d'água. | `C++` · `Arduino` · `Sensores` | ✅ Concluído |
-| [**Portfólio**](https://github.com/GKsegura/repositorio-gksegura) · [🔗](https://gksegura.netlify.app) | Meu portfólio pessoal, com foco em boas práticas e criatividade — em constante evolução. | `React` · `TS` · `CSS` | 🚧 Em evolução |
+| [**Portfólio**](https://github.com/GKsegura/Portfolio) · [🔗](https://gksegura.netlify.app) | Meu portfólio pessoal, com foco em boas práticas e criatividade — em constante evolução. | `Vue 3` · `TS` · `Tailwind` | 🚧 Em evolução |
 
 ---
 
