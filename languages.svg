@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-label="Linguagens mais usadas">
+<style>
+.h{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.t{font:13px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.m{fill:#6e7781}
+.bg{fill:#fff;stroke:#BA55D3}
+@media (prefers-color-scheme:dark){.h,.t{fill:#e6edf3}.m{fill:#8b949e}.bg{fill:#0d1117}}
+</style>
+<rect class="bg" x=".5" y=".5" width="419" height="175" rx="8"/>
+<text x="20" y="30" class="h">Linguagens mais usadas</text>
+<clipPath id="c"><rect x="20" y="46" width="380" height="8" rx="4"/></clipPath>
+<g clip-path="url(#c)"><rect x="20.0" y="46" width="151.2" height="8" fill="#3178c6"/><rect x="171.2" y="46" width="82.1" height="8" fill="#b07219"/><rect x="253.3" y="46" width="73.7" height="8" fill="#41b883"/><rect x="327.0" y="46" width="22.4" height="8" fill="#563d7c"/><rect x="349.5" y="46" width="22.0" height="8" fill="#f7523f"/><rect x="371.5" y="46" width="19.0" height="8" fill="#4F5D95"/><rect x="390.5" y="46" width="9.5" height="8" fill="#BA55D3"/></g>
+<circle cx="25" cy="78" r="5" fill="#3178c6"/><text x="36" y="82" class="t">TypeScript <tspan class="m">39.8%</tspan></text><circle cx="225" cy="78" r="5" fill="#b07219"/><text x="236" y="82" class="t">Java <tspan class="m">21.6%</tspan></text><circle cx="25" cy="100" r="5" fill="#41b883"/><text x="36" y="104" class="t">Vue <tspan class="m">19.4%</tspan></text><circle cx="225" cy="100" r="5" fill="#563d7c"/><text x="236" y="104" class="t">CSS <tspan class="m">5.9%</tspan></text><circle cx="25" cy="122" r="5" fill="#f7523f"/><text x="36" y="126" class="t">Blade <tspan class="m">5.8%</tspan></text><circle cx="225" cy="122" r="5" fill="#4F5D95"/><text x="236" y="126" class="t">PHP <tspan class="m">5%</tspan></text><circle cx="25" cy="144" r="5" fill="#BA55D3"/><text x="36" y="148" class="t">Outras <tspan class="m">2.6%</tspan></text>
+</svg>

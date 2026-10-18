@@ -86,6 +86,10 @@ No dia a dia, transito entre back-end em **Java + Spring Boot** (JPA/Hibernate),
 
 <img src="https://streak-stats.demolab.com?user=GKsegura&theme=transparent&border=BA55D3&ring=BA55D3&fire=BA55D3&currStreakLabel=BA55D3" alt="Streak" />
 
+<img src="languages.svg" alt="Linguagens mais usadas nos meus repositórios" />
+
+<sub>Atualizado toda semana a partir dos repositórios, públicos e privados.</sub>
+
 </div>
 
 ---

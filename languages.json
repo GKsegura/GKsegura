@@ -1,0 +1,47 @@
+{
+  "owner": "GKsegura",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "bytes": 1586916,
+      "percent": 39.8,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Java",
+      "bytes": 861818,
+      "percent": 21.6,
+      "color": "#b07219"
+    },
+    {
+      "name": "Vue",
+      "bytes": 773441,
+      "percent": 19.4,
+      "color": "#41b883"
+    },
+    {
+      "name": "CSS",
+      "bytes": 233920,
+      "percent": 5.9,
+      "color": "#563d7c"
+    },
+    {
+      "name": "Blade",
+      "bytes": 232697,
+      "percent": 5.8,
+      "color": "#f7523f"
+    },
+    {
+      "name": "PHP",
+      "bytes": 197539,
+      "percent": 5,
+      "color": "#4F5D95"
+    },
+    {
+      "name": "Outras",
+      "bytes": 102356,
+      "percent": 2.6,
+      "color": "#BA55D3"
+    }
+  ]
+}

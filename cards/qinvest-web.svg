@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="154" viewBox="0 0 420 154" role="img" aria-label="qinvest-web · linguagens">
+<style>
+.h{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.t{font:13px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.m{fill:#6e7781}
+.bg{fill:#fff;stroke:#BA55D3}
+@media (prefers-color-scheme:dark){.h,.t{fill:#e6edf3}.m{fill:#8b949e}.bg{fill:#0d1117}}
+</style>
+<rect class="bg" x=".5" y=".5" width="419" height="153" rx="8"/>
+<text x="20" y="30" class="h">qinvest-web · linguagens</text>
+<clipPath id="c"><rect x="20" y="46" width="380" height="8" rx="4"/></clipPath>
+<g clip-path="url(#c)"><rect x="20.0" y="46" width="197.2" height="8" fill="#f7523f"/><rect x="217.2" y="46" width="98.4" height="8" fill="#4F5D95"/><rect x="315.6" y="46" width="52.4" height="8" fill="#563d7c"/><rect x="368.1" y="46" width="31.5" height="8" fill="#f1e05a"/><rect x="399.6" y="46" width="0.4" height="8" fill="#c6538c"/></g>
+<circle cx="25" cy="78" r="5" fill="#f7523f"/><text x="36" y="82" class="t">Blade <tspan class="m">51.9%</tspan></text><circle cx="225" cy="78" r="5" fill="#4F5D95"/><text x="236" y="82" class="t">PHP <tspan class="m">25.9%</tspan></text><circle cx="25" cy="100" r="5" fill="#563d7c"/><text x="36" y="104" class="t">CSS <tspan class="m">13.8%</tspan></text><circle cx="225" cy="100" r="5" fill="#f1e05a"/><text x="236" y="104" class="t">JavaScript <tspan class="m">8.3%</tspan></text><circle cx="25" cy="122" r="5" fill="#c6538c"/><text x="36" y="126" class="t">SCSS <tspan class="m">0.1%</tspan></text>
+</svg>

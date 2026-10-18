@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="154" viewBox="0 0 420 154" role="img" aria-label="Portfolio · linguagens">
+<style>
+.h{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.t{font:13px 'Segoe UI',Ubuntu,sans-serif;fill:#24292f}
+.m{fill:#6e7781}
+.bg{fill:#fff;stroke:#BA55D3}
+@media (prefers-color-scheme:dark){.h,.t{fill:#e6edf3}.m{fill:#8b949e}.bg{fill:#0d1117}}
+</style>
+<rect class="bg" x=".5" y=".5" width="419" height="153" rx="8"/>
+<text x="20" y="30" class="h">Portfolio · linguagens</text>
+<clipPath id="c"><rect x="20" y="46" width="380" height="8" rx="4"/></clipPath>
+<g clip-path="url(#c)"><rect x="20.0" y="46" width="293.0" height="8" fill="#41b883"/><rect x="313.0" y="46" width="47.5" height="8" fill="#3178c6"/><rect x="360.5" y="46" width="28.1" height="8" fill="#563d7c"/><rect x="388.6" y="46" width="6.1" height="8" fill="#e34c26"/><rect x="394.7" y="46" width="5.3" height="8" fill="#f1e05a"/></g>
+<circle cx="25" cy="78" r="5" fill="#41b883"/><text x="36" y="82" class="t">Vue <tspan class="m">77.1%</tspan></text><circle cx="225" cy="78" r="5" fill="#3178c6"/><text x="236" y="82" class="t">TypeScript <tspan class="m">12.5%</tspan></text><circle cx="25" cy="100" r="5" fill="#563d7c"/><text x="36" y="104" class="t">CSS <tspan class="m">7.4%</tspan></text><circle cx="225" cy="100" r="5" fill="#e34c26"/><text x="236" y="104" class="t">HTML <tspan class="m">1.6%</tspan></text><circle cx="25" cy="122" r="5" fill="#f1e05a"/><text x="36" y="126" class="t">JavaScript <tspan class="m">1.4%</tspan></text>
+</svg>
