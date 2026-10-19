@@ -3,44 +3,44 @@
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 1586916,
-      "percent": 39.8,
+      "bytes": 1010662,
+      "percent": 52.7,
       "color": "#3178c6"
     },
     {
-      "name": "Java",
-      "bytes": 861818,
-      "percent": 21.6,
-      "color": "#b07219"
-    },
-    {
       "name": "Vue",
-      "bytes": 773441,
-      "percent": 19.4,
+      "bytes": 240590,
+      "percent": 12.5,
       "color": "#41b883"
-    },
-    {
-      "name": "CSS",
-      "bytes": 233920,
-      "percent": 5.9,
-      "color": "#563d7c"
     },
     {
       "name": "Blade",
       "bytes": 232697,
-      "percent": 5.8,
+      "percent": 12.1,
       "color": "#f7523f"
     },
     {
       "name": "PHP",
       "bytes": 197539,
-      "percent": 5,
+      "percent": 10.3,
       "color": "#4F5D95"
     },
     {
+      "name": "CSS",
+      "bytes": 153484,
+      "percent": 8,
+      "color": "#563d7c"
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 42130,
+      "percent": 2.2,
+      "color": "#f1e05a"
+    },
+    {
       "name": "Outras",
-      "bytes": 102356,
-      "percent": 2.6,
+      "bytes": 40990,
+      "percent": 2.1,
       "color": "#BA55D3"
     }
   ]
